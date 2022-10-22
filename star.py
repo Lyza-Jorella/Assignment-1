@@ -1,3 +1,6 @@
+print("********** Programmed by: **********")
+print("********** Lyza Jorella R. Del Rosario **********")
+
 def star():
 	a=input('enter your name:')
 	no=5
